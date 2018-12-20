@@ -6,7 +6,8 @@ The goal of this project is to learn how to implement simple image classificatio
 in Keras
 
 ### Requirements
-I use Python 3.6 on (Mini)conda to complete the assignment.
+I used Python 3.6 on (Mini)conda to complete the assignment.
 
 The virtual environment can be activated using: ``conda create --name dl --file conda-env.txt``
+
 The python packages are then installed using pip: ``pip -r requirements.txt``
